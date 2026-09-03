@@ -1,0 +1,18 @@
+{
+  "D": 7,
+  "D_p": "1/7",
+  "D_c": "7/7",
+  "union_h": 39.37,
+  "sum_h": 39.61,
+  "double_count_h": 0.24,
+  "android_live_day": {
+    "logical_day": "2026-08-27",
+    "sessions": 85,
+    "hours": 7.02
+  },
+  "banner": "Phone tracker off since Aug 28",
+  "chrome_dark": "2026-08-14",
+  "timezone": "Asia/Kolkata",
+  "week_start": "2026-08-24",
+  "week_end": "2026-08-30"
+}
